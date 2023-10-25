@@ -1,0 +1,3 @@
+*.jupyterlab-workspace
+.ipynb_checkpoints
+.jupyter
